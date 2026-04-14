@@ -11,7 +11,7 @@
 
 ## What This Project Does
 
-JobScope is a fully automated data pipeline that collects live job listings from public sources, normalizes dirty and inconsistent raw data, loads it into a relational PostgreSQL database, and surfaces insights through a Power BI dashboard.
+This is a fully automated data pipeline that collects live job listings from public sources, normalizes dirty, inconsistent raw data, loads it into a PostgreSQL relational database, and surfaces insights through a Power BI dashboard.
 
 It was built to demonstrate end-to-end data engineering and analytics skills — from raw scrape to business insight.
 
@@ -92,7 +92,7 @@ psql -U postgres -f db/schema.sql
 
 Update `db/models.py` with your connection string:
 ```python
-DATABASE_URL = "postgresql://user:password@localhost:5432/jobscope"
+DATABASE_URL = "postgresql://user:password@localhost:5432/"
 ```
 
 ### 3. Run a scrape
