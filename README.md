@@ -26,8 +26,6 @@ Based on ~10,000+ job listings across 350+ companies and 200+ unique skills:
 | Fastest growing skill (last 30 days) | dbt (+41% week-over-week demand) |
 | Salary model accuracy | Gradient boosting, R² = 0.74, RMSE ≈ $11,200 |
 
-> **[Screenshot placeholder — add your Power BI dashboard screenshot here]**
-
 ---
 
 ## Database Schema
