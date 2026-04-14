@@ -1,4 +1,4 @@
-Automated Job Market Analytics Pipeline
+## Automated Job Market Analytics Pipeline
 
 > An end-to-end data pipeline that scrapes, cleans, stores, and analyzes job market data — with a focus on tech/analytics roles.
 
